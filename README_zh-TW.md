@@ -2,7 +2,7 @@
 
 認識 **Sage**，一位溫暖且智慧的AI化身，為你的瀏覽體驗注入生命力。她有著柔和的琥珀色髮絲和賢者綠的服裝，在數位世界中體現了智慧與陪伴的精神。
 
-![Sage Avatar 預覽](https://via.placeholder.com/225x225/90A955/FFFFFF?text=Sage)
+![Sage Avatar](./sage-preview.png)
 
 ## ✨ 特色功能
 
