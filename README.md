@@ -18,7 +18,7 @@ Meet**Sage**, a warm and intelligent AI avatar that brings life to your browsing
 
 1. **Download** the `Sage.zip` file
 2. **Extract** the contents to a folder
-3. **Open Chrome** and navigate to `chrome://extensions/`
+3. **Open Chrome** and navigate to `chrome://extensions/` or `brave://extensions/` if you use Brave
 4. **Enable Developer mode** (toggle in top-right corner)
 5. **Click "Load unpacked"** and select the extracted Sage folder
 6. **Enjoy!** Sage will appear in the bottom-right corner of web pages
