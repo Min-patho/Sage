@@ -18,7 +18,7 @@
 
 1. **下載** `Sage.zip` 檔案
 2. **解壓縮** 檔案內容到資料夾
-3. **開啟Chrome** 並前往 `chrome://extensions/`
+3. **開啟Chrome(或Brave)** 並前往 `chrome://extensions/` 或 `brave://extensions/` 
 4. **啟用開發者模式**（點選右上角的切換開關）
 5. **點選「載入未封裝項目」** 並選擇解壓縮的Sage資料夾
 6. **開始享受！** Sage會出現在網頁的右下角
