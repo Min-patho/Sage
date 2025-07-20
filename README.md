@@ -1,5 +1,7 @@
 # 🌿 Sage Avatar - Your Wise AI Companion 
 
+./sage-preview.png
+
 Meet**Sage**, a warm and intelligent AI avatar that brings life to your browsing experience. With her gentle amber hair and sage-green attire, she embodies wisdom and companionship in the digital world.
 
 ## ✨ Features
